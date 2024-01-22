@@ -2,6 +2,7 @@
   "name": "reacttest",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://SlimSim.github.io/reactTest",
   "type": "module",
   "scripts": {
     "dev": "vite",
