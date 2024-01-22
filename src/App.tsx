@@ -19,7 +19,7 @@ function App() {
       <h1>Troff + React!</h1>
       <p>How far can it go?</p>
       <div className="card">
-        <button onClick={() => setCount((count) => "11!")}>
+        <button onClick={() => setCount(count+1)}>
           At least to {count}
         </button>
       </div>
